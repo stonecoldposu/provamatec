@@ -1,3 +1,3 @@
 # provamatec
 
-Questo si dovrebbe visualizzate sulla pagina del progetto
+Questo si dovrebbe visualizzare sulla pagina del progetto
